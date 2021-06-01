@@ -3,6 +3,7 @@
 from datetime import datetime
 import getpass
 import requests
+
 from take_picture import take_picture
 
 # Private data
