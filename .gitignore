@@ -1,0 +1,10 @@
+__pycache__
+
+.venv
+.vscode
+.pylintrc
+
+TestCaptures
+
+keys.py
+config.py
