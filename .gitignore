@@ -9,4 +9,8 @@ send_alert.spec
 
 src/keys.py
 src/config.py
-src/test_captures
+
+*.png
+*.jpg
+*.tiff
+*.bpm
