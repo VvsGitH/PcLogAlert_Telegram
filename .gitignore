@@ -2,9 +2,11 @@ __pycache__
 
 .venv
 .vscode
-.pylintrc
 
-TestCaptures
+build
+dist
+send_alert.spec
 
-keys.py
-config.py
+src/keys.py
+src/config.py
+src/test_captures
